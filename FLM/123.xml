@@ -1,0 +1,15 @@
+<?xml version="1.0.0" encoding="UTF-8"?>
+<ImageData>
+    <ImageObject type="GRID">
+        <fromx>10000</fromx>
+        <fromy>10001</fromy>
+        <width>20002</width>
+        <height>20003</height>
+        <diameter>0</diameter>
+        <horizontal_lines_distance>1000</horizontal_lines_distance>
+        <vertical_lines_distance>1000</vertical_lines_distance>
+        <print_contour>0</print_contour>
+        <print_horizontal_lines>1</print_horizontal_lines>
+        <print_vertical_lines>0</print_vertical_lines>
+    </ImageObject>
+</ImageData>

@@ -1,0 +1,27 @@
+LIBRARY TDLPortIO.dll
+EXPORTS
+OpenLPTDriver
+CloseLPTDriver
+PortControl
+PortCommand
+ReadPortFIFO
+WritePortFIFO
+ReadWPortFIFO
+WriteWPortFIFO
+ReadLPortFIFO
+WriteLPortFIFO
+GetDriverPath
+SetDriverPath
+GetDLLPath
+SetDLLPath
+ActiveHW
+IsDriverOpened
+TestHardAccess
+SetHardAccess
+LastError
+ReadPort
+ReadPortW
+ReadPortL
+WritePort
+WritePortW
+WritePortL
